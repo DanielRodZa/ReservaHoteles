@@ -18,7 +18,7 @@ Este proyecto proporciona un sistema básico de gestión de habitaciones para un
 1.  Clona el repositorio:
 
     ```bash
-    git clone <URL_del_repositorio>
+    git clone https://github.com/DanielRodZa/ReservaHoteles.git
     cd gestor-habitaciones-hotel
     ```
 
